@@ -6,6 +6,7 @@ namespace sample_prog1
         public HB()
         {
             //comment
+            //segundo comentario
         }
     }
 }
