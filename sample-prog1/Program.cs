@@ -6,6 +6,7 @@ namespace sample_prog1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ISC Prog1");
             
         }
     }
