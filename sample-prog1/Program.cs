@@ -1,12 +1,13 @@
-using System;
+﻿using System;
 
 namespace sample_prog1
 {
-    class CEPJ
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dakiti");
+            Console.WriteLine("ISC Prog1");
+            
         }
     }
 }
